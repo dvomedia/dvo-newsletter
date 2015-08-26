@@ -8,4 +8,4 @@ deploy:
   skip_cleanup: true
   acl: public_read
   on:
-    repo: dvomedia/newsletter
+    repo: dvomedia/dvo-newsletter
