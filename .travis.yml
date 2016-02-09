@@ -8,6 +8,7 @@ deploy:
   access_key_id: AKIAIJGTHZSMAJWMNFFQ
   secret_access_key:
     secure: QIlyGvU05542+A4qcYu1GnxXQ+Q6oNE31U6vBrLSEaFTESGRa824GhNnqzZbqSk3t0LlgSv2bs7HTetyHSeLZdLD46AyPyB3XJIiIrB6wIeXqslOlNgYK/+xaGblRdQEIUcVDLEZZ4wzNNnCoGM2RK2rrh4weFg+n/1lw4kZAT7i1nwbpRbklax92Yu4yCRk8f2iw45svF7Z5zk2TSKLuim8Qm/1YxDEK9asoz+2InKtSCijBMfxNM3zJon+UtZDnVr1XSg3xnq9Bzv0+/O2KE/OWj38Rht7ZmD3UcA38tfRFWrMGiO/nTtCy9wfOPpBxhcsSrdevvt6Z+DMkd7/QdbQUqBiRC/o8e8Eg81+4jEvMwdv27P80A7NM8/qmdi20k5lyLuymwjWZlAmK3fHZWfbfI337xwg6iaWzr6TgtOCkDjcvCOs79zVlD2QK3AKP2VOZGNqJZcikM7oNRVp4w3+RWTePnzaUVZe0rGnwSGXlH+bo7JjblbnBxXBCrlV9KB1NasqMFHc+dZhPBY3S5049EModHGcH2i95KQV6lTi/a09hR+cFpwzYdZdbz/Sh3lPB7MxNS8YAp5OQADI6ptM7PgkTxD8pAd3sN4GrKma+l+wEtAizkbEfP+1WKZnqS/a5mauOiOPuoPEVNIyOpxwcwCgwh2KsUl4qqbrqxE=
+  region: eu-west-1
   bucket: dvonewsletter
   acl: public_read
   on:
